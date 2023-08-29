@@ -2,3 +2,7 @@
 	path = dependencies/CASE-Utilities-Python
 	url = https://github.com/casework/CASE-Utilities-Python.git
 	branch = main
+[submodule "dependencies/casework.github.io"]
+	path = dependencies/casework.github.io
+	url = https://github.com/casework/casework.github.io.git
+	branch = master
