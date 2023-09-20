@@ -1,3 +1,7 @@
+[submodule "dependencies/CASE-Implementation-Template-Python-CLI"]
+	path = dependencies/CASE-Implementation-Template-Python-CLI
+	url = https://github.com/casework/CASE-Implementation-Template-Python-CLI.git
+	branch = main
 [submodule "dependencies/CASE-Utilities-Python"]
 	path = dependencies/CASE-Utilities-Python
 	url = https://github.com/casework/CASE-Utilities-Python.git
