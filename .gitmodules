@@ -2,6 +2,10 @@
 	path = dependencies/CASE-Graphics
 	url = https://github.com/casework/CASE-Graphics.git
 	branch = main
+[submodule "dependencies/CASE-Implementation-PROV-O"]
+	path = dependencies/CASE-Implementation-PROV-O
+	url = https://github.com/casework/CASE-Implementation-PROV-O.git
+	branch = main
 [submodule "dependencies/CASE-Implementation-Template-Python-CLI"]
 	path = dependencies/CASE-Implementation-Template-Python-CLI
 	url = https://github.com/casework/CASE-Implementation-Template-Python-CLI.git
