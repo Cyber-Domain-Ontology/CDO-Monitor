@@ -30,3 +30,7 @@
 	path = dependencies/cdo.github.io
 	url = https://github.com/Cyber-Domain-Ontology/cdo.github.io.git
 	branch = main
+[submodule "dependencies/rdf-toolkit-action"]
+	path = dependencies/rdf-toolkit-action
+	url = https://github.com/casework/rdf-toolkit-action.git
+	branch = main
