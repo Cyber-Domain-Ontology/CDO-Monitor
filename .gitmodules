@@ -14,6 +14,10 @@
 	path = dependencies/CASE-Mapping-Python
 	url = https://github.com/casework/CASE-Mapping-Python.git
 	branch = main
+[submodule "dependencies/CASE-Mapping-Template-Stubs"]
+	path = dependencies/CASE-Mapping-Template-Stubs
+	url = https://github.com/casework/CASE-Mapping-Template-Stubs.git
+	branch = main
 [submodule "dependencies/CASE-Utilities-Python"]
 	path = dependencies/CASE-Utilities-Python
 	url = https://github.com/casework/CASE-Utilities-Python.git
