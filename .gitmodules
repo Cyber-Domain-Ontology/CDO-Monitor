@@ -22,6 +22,10 @@
 	path = dependencies/CASE-Utilities-Python
 	url = https://github.com/casework/CASE-Utilities-Python.git
 	branch = main
+[submodule "dependencies/CASE-Utility-SHACL-Inheritance-Reviewer"]
+	path = dependencies/CASE-Utility-SHACL-Inheritance-Reviewer
+	url = https://github.com/casework/CASE-Utility-SHACL-Inheritance-Reviewer.git
+	branch = main
 [submodule "dependencies/CDO-Utility-Local-UUID"]
 	path = dependencies/CDO-Utility-Local-UUID
 	url = https://github.com/Cyber-Domain-Ontology/CDO-Utility-Local-UUID.git
