@@ -46,3 +46,6 @@
 	path = dependencies/rdf-toolkit-action
 	url = https://github.com/casework/rdf-toolkit-action.git
 	branch = main
+[submodule "dependencies/ucoproject.github.io"]
+	path = dependencies/ucoproject.github.io
+	url = https://github.com/ucoProject/ucoproject.github.io.git
